@@ -16,7 +16,13 @@ const ArticleContent = () => {
           <img 
             src={bundleImage} 
             alt="Joseph's Well survival guide bundle showing book and digital formats"
-            className="w-full h-auto rounded-sm shadow-lg"
+            className="w-full h-auto rounded-sm shadow-lg cursor-pointer hover:shadow-xl transition-shadow duration-300"
+            onClick={() => {
+              document.getElementById('cta-section')?.scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'center'
+              });
+            }}
           />
           <figcaption className="text-center text-sm text-muted-foreground mt-4 italic">
             The guide that is challenging modern survival techniques.
