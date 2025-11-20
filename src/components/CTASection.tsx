@@ -7,7 +7,7 @@ const CTASection = () => {
   };
 
   return (
-    <section className="max-w-3xl mx-auto px-4 py-8 md:py-12">
+    <section id="cta-section" className="max-w-3xl mx-auto px-4 py-8 md:py-12">
       <div className="bg-secondary border-2 border-border rounded-sm p-6 md:p-10 text-center shadow-sm">
         <h3 className="font-serif text-2xl md:text-3xl font-bold text-foreground mb-6">
           Watch The Free Video Presentation
