@@ -3,8 +3,7 @@ import { ArrowRight } from "lucide-react";
 
 const StickyFooterCTA = () => {
   const handleCTAClick = () => {
-    // Placeholder link - replace with actual video page URL
-    window.location.href = "#";
+    window.location.href = "https://hop.clickbank.net/?vendor=uswater1&affiliate=renanmir&page=watch&tid=fb01";
   };
 
   return (
