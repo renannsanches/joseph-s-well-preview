@@ -6,7 +6,7 @@ const Header = () => {
           Christian Survival Watch
         </div>
         <div className="text-xs md:text-sm text-primary-foreground/80">
-          News & Updates 2025
+          News & Updates 2026
         </div>
       </div>
     </header>
