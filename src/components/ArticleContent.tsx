@@ -34,7 +34,7 @@ const ArticleContent = () => {
         </p>
 
         <p className="text-foreground leading-relaxed mb-8 text-base md:text-lg font-medium">
-          Is this the answer to the predicted 2025 shortages? A detailed video presentation has been released explaining the science and the scripture behind this device. It is currently available to watch for free for a limited time.
+          Is this the answer to the predicted 2026 shortages? A detailed video presentation has been released explaining the science and the scripture behind this device. It is currently available to watch for free for a limited time.
         </p>
       </div>
     </article>
