@@ -30,11 +30,11 @@ const ArticleContent = () => {
         </figure>
 
         <p className="text-foreground leading-relaxed mb-6 text-base md:text-lg">
-          Author John Gilmore reveals a method that doesn't rely on the grid, expensive wells, or stockpiling plastic bottles. He calls it a 'God-given plan to pull water from the air... before the seals open.' It creates a nearly endless supply of clean water, providing peace of mind in uncertain times.
+          Author John Gilmore reveals a method that doesn't rely on the grid, expensive wells, or stockpiling plastic bottles. He calls it a 'God-given plan to harvest water from the atmosphere... before the seals open.' It creates a nearly endless supply of clean water, providing peace of mind in uncertain times.
         </p>
 
         <p className="text-foreground leading-relaxed mb-8 text-base md:text-lg font-medium">
-          Is this the answer to the predicted 2026 shortages? A detailed video presentation has been released explaining the science and the scripture behind this device. It is currently available to watch for free for a limited time.
+          Is this the answer to water insecurity? An eye-opening presentation has been released explaining the science and the scripture behind this device. It is currently available to watch for free for a limited time.
         </p>
       </div>
     </article>

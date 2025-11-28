@@ -2,10 +2,10 @@ const HeroSection = () => {
   return (
     <section className="max-w-3xl mx-auto px-4 py-8 md:py-12">
       <h1 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-foreground leading-tight mb-4">
-        The '2026 Water Crisis' Warning: Why Thousands of Christian Families Are Turning to This Forgotten Biblical Method
+        The Water Independence Protocol: Why Christian Families Are Securing Their Own Supply With This Biblical Insight
       </h1>
       <h2 className="font-serif text-xl md:text-2xl text-muted-foreground italic leading-relaxed">
-        Experts warn of mega-droughts, but a controversial video reveals a 'God-given plan' to generate water from thin air.
+        While uncertainty grows, a vital presentation reveals a 'God-given concept' to harvest water from the atmosphere using a simple device.
       </h2>
     </section>
   );
